@@ -11,3 +11,11 @@ button {
     padding: 15px 30px;
 
 }
+
+.reset {
+    background-color: red;
+    width : 200px;
+}
+body {
+    padding : 15px 30px;
+}
